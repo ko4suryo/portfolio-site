@@ -1,0 +1,101 @@
+@charset "utf-8";
+
+.fluffy{
+    margin-top: 40px;
+}
+
+.futty{
+    margin-top: 40px;
+}
+
+.title h1{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    color: #513d3d;
+}
+
+.contact{
+    width: 930px;
+    max-width: 90%;
+    margin-top: 75px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-area{
+    color: #000;
+    background-color: #FCFCFC;
+    border: 1px solid rgb(214, 214, 214);
+    border-radius: 10px;
+    margin-top: 30px;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contact-message{
+    font-size: 20px;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+.form-area dt{
+    width: 200px;
+    padding: 15px 0;
+    font-size: 17px;
+    line-height: 24px;
+}
+
+.form-area dd{
+    width: calc(100% - 200px);
+    padding: 15px 0;
+}
+
+.form-area dt .required::after{
+    content: '必須';
+    font-size: 10px;
+    color: #fff;
+    border-radius: -1px;
+    background-color: #B51616;
+    font-weight: lighter;
+    margin-left: 10px;
+    padding: 4px 10px;
+}
+
+.input-text{
+    width: 100%;
+    max-width: 280px;
+    height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.message{
+    width: 100%;
+    height: 260px;
+    padding: 10px;
+    line-height: 1.5;
+}
+
+.submit-button{
+    color: #fff;
+    background-color: #513d3d;
+    display: inline-block;
+    min-width: 180px;
+    line-height: 48px;
+    border-radius: 24px;
+    font-size: 15px;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    cursor: pointer;
+    border: none;
+}
+
+.submit-button:hover{
+    background-color: #3b2c2c;
+}

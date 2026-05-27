@@ -1,0 +1,17 @@
+<svg width="1432" height="2062" viewBox="0 0 1432 2062" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0_115_225)">
+<rect width="1432" height="2062" fill="white"/>
+<path d="M701 27C786.286 27 859.974 76.659 894.727 148.64C927.04 131.016 964.101 121 1003.5 121C1115.33 121 1208.31 201.686 1227.41 308.018C1228.44 308.006 1229.47 308 1230.5 308C1378.24 308 1498 427.764 1498 575.5C1498 638.949 1475.91 697.238 1439 743.097V2062H-1V744.332C-38.5099 698.287 -61 639.52 -61 575.5C-61 434.16 48.6183 318.423 187.477 308.666C206.312 202.014 299.444 121 411.5 121C446.757 121 480.14 129.02 509.926 143.335C545.682 74.2306 617.825 27 701 27Z" fill="#FFDCDC"/>
+<path d="M-0.500404 743.998C-81 649.498 -128.5 361.698 187.5 308.498C203.666 222.498 291.1 69.0982 511.5 143.498C561 42.4998 744 -64.5001 896.5 143.498C934.667 121.665 1010 98.5 1085 135.5" stroke="black" stroke-width="8"/>
+<rect x="-82" y="-83" width="164" height="166" fill="url(#pattern0_115_225)"/>
+</g>
+<defs>
+<pattern id="pattern0_115_225" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_115_225" transform="matrix(0.000865409 0 0 0.000854982 -0.20122 -0.441767)"/>
+</pattern>
+<clipPath id="clip0_115_225">
+<rect width="1432" height="2062" fill="white"/>
+</clipPath>
+<image id="image0_115_225" width="1536" height="2048" preserveAspectRatio="none" xlink:href="./akuriru1.png"/>
+</defs>
+</svg>
